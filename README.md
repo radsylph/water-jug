@@ -10,8 +10,8 @@ Exercise to solve the Water jug riddle, made with the following technologies:
 
 - [Description](#description)
 - [requirements](#requirements)
-- [How to Use](#how-to)
-- [API Examples](#examples)
+- [How to Use](#how-to-use)
+- [API Examples](#api-examples)
 - [Algorithm](#algorithm)
 
 # Description 
