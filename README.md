@@ -2,9 +2,9 @@
 
 Exercise to solve the Water jug riddle, made with the following technologies: 
 
-[Node](https://nodejs.org/en)
-[Typescript](https://www.typescriptlang.org)
-[Fastify](https://fastify.dev)
+- [Node](https://nodejs.org/en)
+- [Typescript](https://www.typescriptlang.org)
+- [Fastify](https://fastify.dev)
 
 ## Table of Content 
 
